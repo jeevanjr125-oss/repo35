@@ -1,3 +1,6 @@
 hello people
 hi people how are you
+ HEAD
 hi how are you
+i am good people
+>>>>>>> e637173 (committing 3rd line in fb1 branch)
